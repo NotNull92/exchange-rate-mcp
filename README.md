@@ -1,5 +1,7 @@
 # Exchange Rate MCP Server
 
+[![npm version](https://badge.fury.io/js/exchange-rate-mcp.svg)](https://badge.fury.io/js/exchange-rate-mcp)
+
 A real-time exchange rate tool built with the Model Context Protocol (MCP). This server allows AI agents (like Claude) to fetch accurate, up-to-date currency exchange rates.
 
 [🇺🇸 English Guide](#english-guide) | [🇰🇷 한국어 가이드](#%ED%95%9C%EA%B5%AD%EC%96%B4-%EA%B0%80%EC%9D%B4%EB%93%9C)
@@ -33,7 +35,7 @@ For any currency **not** in the list above (e.g., `TWD` (Taiwan), `VND` (Vietnam
 
 ### Installation
 
-You can run this server using `npx` (Node.js is required). No manual downloading or building is necessary!
+This package is **published on NPM**, so you can run this server instantly using `npx` (Node.js is required). No manual downloading or building is necessary!
 
 #### For Claude Desktop
 
@@ -113,7 +115,7 @@ Fetches the current exchange rate between two currencies. The output will indica
 
 ### 설치 및 연동 방법
 
-Node.js 환경의 `npx` 명령어를 통해 손쉽게 실행할 수 있습니다. 수동으로 다운로드하거나 빌드할 필요가 없습니다!
+이 패키지는 **NPM에 정식 배포되어 있습니다.** 따라서 Node.js가 설치되어 있다면 원본 코드를 다운로드하거나 빌드할 필요 없이 `npx` 명령어로 손쉽고 즉각적으로 실행할 수 있습니다!
 
 #### Claude Desktop 연동 (추천)
 
