@@ -4,9 +4,7 @@
 
 A real-time exchange rate tool built with the Model Context Protocol (MCP). This server allows AI agents (like Claude) to fetch accurate, up-to-date currency exchange rates.
 
-[🇺🇸 English Guide](#english-guide) | [🇰🇷 한국어 가이드](#%ED%95%9C%EA%B5%AD%EC%96%B4-%EA%B0%80%EC%9D%B4%EB%93%9C)
 
----
 
 <br>
 
