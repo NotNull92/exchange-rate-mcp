@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "bin": {
-    "exchange-rate-mcp": "./dist/index.js"
+    "exchange-rate-mcp": "dist/index.js"
   },
   "scripts": {
     "build": "tsc",
