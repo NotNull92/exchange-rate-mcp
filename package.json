@@ -1,0 +1,30 @@
+{
+  "name": "exchange-rate-mcp",
+  "version": "1.0.0",
+  "description": "💱 Real-time Exchange Rate Tool for AI Agents (Built with Model Context Protocol)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NotNull92/exchange-rate-mcp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NotNull92/exchange-rate-mcp/issues"
+  },
+  "homepage": "https://github.com/NotNull92/exchange-rate-mcp#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.27.1",
+    "axios": "^1.13.6"
+  },
+  "devDependencies": {
+    "@types/node": "^25.4.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
