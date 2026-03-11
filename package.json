@@ -4,6 +4,9 @@
   "description": "💱 Real-time Exchange Rate Tool for AI Agents (Built with Model Context Protocol)",
   "main": "index.js",
   "type": "module",
+  "bin": {
+    "exchange-rate-mcp": "./dist/index.js"
+  },
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js",
